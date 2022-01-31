@@ -3,8 +3,8 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 # environment variables
-username = 'varuns17997@gmail.com'
-password = 'Jimmy@2017'
+username = '<email>'
+password = '<password>'
 
 msg_template = """Hello {name},
 Thank you for joining {website}. We are very
